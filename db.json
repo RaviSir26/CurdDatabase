@@ -1,0 +1,49 @@
+{
+    "students": [
+        {
+            "id": "1",
+            "name": "Mohan",
+            "age": "26",
+            "gender": "Male",
+            "email": "mohan@gmail.com",
+            "phone": "+91 7896854880",
+            "city": "Indore"
+        },
+        {
+            "id": "2",
+            "name": "Rohan sen",
+            "age": "25",
+            "gender": "Male",
+            "email": "rohansen@gmail.com",
+            "phone": "6266656467",
+            "city": "Jabalpur"
+        },
+        {
+            "id": "3",
+            "name": "Neha",
+            "age": "25",
+            "gender": "Female",
+            "email": "neha25@gmail.com",
+            "phone": "7485962514",
+            "city": "Ujjain"
+        },
+        {
+            "id": "4",
+            "name": "Sohan",
+            "age": "20",
+            "gender": "Male",
+            "email": "sohan26@gmail.com",
+            "phone": "7845126315",
+            "city": "Satna"
+        },
+        {
+            "id": "5",
+            "name": "RamDayal",
+            "age": "65",
+            "gender": "Male",
+            "email": "ram@gmail.com",
+            "phone": "+91 7845126315",
+            "city": "rewa"
+        }
+    ]
+}
